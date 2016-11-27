@@ -49,10 +49,16 @@ def mann2008a(infilled=True, data_home=None, download_if_missing=True):
     Notes
     -----
     This dataset was extracted from the Paleoclimatology Reconstructions
-    Network v1.0.1 [2,3]_.
+    Network v2.0.0 [2,3]_.
 
     The data is contained in NetCDF files, one for the infilled and one for
     the original (raw) data.  Each NetCDF file is ~100 MB in size.
+
+    The data comes with the following use constraints::
+
+        Please cite original publication, online resource and date accessed
+        when using this data. If there is no publication information, please
+        cite investigator, title, online resource and date accessed.
 
     References
     ----------
